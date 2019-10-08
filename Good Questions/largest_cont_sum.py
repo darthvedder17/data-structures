@@ -8,4 +8,5 @@ def largest_cont_sum(arr):
     return maxsum
 sample=[2,5,10,-20,4,2,10]
 print(largest_cont_sum(sample))
+lauda lele
         
